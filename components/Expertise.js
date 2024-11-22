@@ -10,8 +10,8 @@ const Expertise = () => {
         <div className='container'>
           <div className='heading-title'>
             <Title title='Our expertise' />
-            <p>Vivamus a ligula ut velit placerat egestas at id leo. Nulla ac volutpat nunc. Suspendisse ut magna porttitor, sollicitudin ligula at, molestie dolor.</p>
-          </div>
+            <p>With a proven track record in digital transformation, we excel in delivering tailored solutions across **digital marketing**, **SEO**, and **website development**. Our team combines innovative strategies, cutting-edge technologies, and industry best practices to create impactful results. Whether it's enhancing your online visibility, driving targeted traffic, or building seamless, user-friendly websites, we are committed to turning your vision into reality.</p>
+            </div>
           <div className='hero-content grid-4'>
             {expertise.map((item) => (
               <Card data={item} key={item.id} caption='learn more' />

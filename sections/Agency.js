@@ -17,7 +17,7 @@ const Agency = () => {
           <div className='content flex1'>
             <div className='left w-60 py'>
               <TitleSm title='Turning your business ideas into smart digital products since 2001' />
-              <p className='desc-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus eleifend magna, molestie iaculis sem pulvinar eu. Etiam non dui felis. Proin posuere dapibus magna laoreet posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim, sem eget sollicitudin tempor, libero velit aliquam enim, vel egestas tortor ante quis sem.</p>
+              <p className='desc-p'>We specialize in delivering tailored solutions for **digital marketing**, **SEO**, and **website development**. Whether you're looking to drive organic traffic, create a visually appealing and functional website, or enhance your online presence, we are here to help you achieve your goals. With over a decade of experience, our team ensures measurable results and innovative strategies that align with your vision.</p>
               <div className='grid-3'>
                 <div className='box'>
                   <h1 className='indigo'>10+</h1>
@@ -45,7 +45,7 @@ const Agency = () => {
             <div className='right w-60 ml'>
               <TitleSm title='Our mission' />
               <br />
-              <p className='misson-p'>Fusce fringilla justo vel dui consectetur, fringilla maximus ante malesuada. Suspendisse facilisis nisl augue, ut sollicitudin lectus ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis esse vitae officia nostrum facere. Fugiat voluptates, expedita dolore at perferendis quae libero fuga consequatur veniam, eius non fugit nulla vitae?</p>
+              <p className='misson-p'>Our mission is to empower businesses with cutting-edge digital tools and strategies that drive growth and engagement. From crafting responsive, SEO-optimized websites to executing result-oriented digital marketing campaigns, we focus on delivering solutions that make a lasting impact.</p>
             </div>
           </div>
         </div>

@@ -36,7 +36,7 @@ export const expertise = [
   },
   {
     id: 3,
-    title: "E-Commerce",
+    title: "Content writing",
     cover: "../images/e3.jpg",
     desc: [{ text: "E-Commerce website design" }, { text: "WooCommerce" }, { text: "Content management" }, { text: "Hosting" }],
   },
@@ -51,69 +51,71 @@ export const testimonial = [
   {
     id: 1,
     name: "Alexander Black",
-    cover: "../images/e1.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    cover: "https://i.pravatar.cc/150?img=12", // Male placeholder image
+    post: "Seven Consulting - CEO",
+    desc: "Their branding strategies and creative designs elevated our company's identity. The team is incredibly talented and professional, making our vision a reality with exceptional results.",
   },
   {
     id: 2,
     name: "Diana Green",
-    cover: "../images/e2.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    cover: "https://i.pravatar.cc/150?img=47", // Female placeholder image
+    post: "Seven Arts - Marketing Manager",
+    desc: "The content writing and landing page development services exceeded our expectations. They effectively communicated our brand's message, which resulted in increased customer engagement.",
   },
   {
     id: 3,
-    name: "Alexander Black",
-    cover: "../images/e3.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    name: "Michael White",
+    cover: "https://i.pravatar.cc/150?img=33", // Male placeholder image
+    post: "TechWorld - Product Manager",
+    desc: "From digital marketing to web development, their expertise drove our project to success. Their strategic approach helped us achieve a remarkable online presence in no time.",
   },
   {
     id: 4,
-    name: "Diana Green",
-    cover: "../images/e4.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    name: "Sophia Brown",
+    cover: "https://i.pravatar.cc/150?img=51", // Female placeholder image
+    post: "Bright Future - Creative Director",
+    desc: "Their creative services brought life to our ideas. The attention to detail and unique perspective they provided were exactly what we needed for our branding efforts.",
   },
-]
+];
+
+
 export const showcase = [
   {
     id: 1,
-    title: "Neon Lights",
-    cover: "../images/s1.jpg",
+    title: "Autoshop",
+    cover: "../e.jpg",
     catgeory: "DIGITAL MARKETING",
   },
   {
     id: 2,
-    title: "Futuristic Furniture",
+    title: "Clean Distribuidora",
     catgeory: "WEBSITES",
-    cover: "../images/s2.jpg",
+    cover: "../e2.jpg",
   },
   {
     id: 3,
-    title: "Smart Living",
-    cover: "../images/s3.jpg",
+    title: "Ship Pack 5",
+    cover: "../e3.jpg",
     catgeory: "WEBSITES",
   },
   {
     id: 4,
-    title: "Light Painting",
-    cover: "../images/s4.jpg",
+    title: "Align Health",
+    cover: "../e1.jpg",
     catgeory: "BRANDING	",
   },
-  {
-    id: 5,
-    title: "Ideabox",
-    cover: "../images/s5.jpg",
-    catgeory: "BRANDING	",
-  },
-  {
-    id: 5,
-    title: "VR Experience",
-    cover: "../images/s6.jpg",
-    catgeory: "WEBSITES	",
-  },
+  // {
+  //   id: 5,
+  //   title: "Ideabox",
+  //   cover: "../images/s5.jpg",
+  //   catgeory: "BRANDING	",
+  // },
+  // {
+  //   id: 5,
+  //   title: "VR Experience",
+  //   cover: "../images/s6.jpg",
+  //   catgeory: "WEBSITES	",
+  // },
 ]
 export const brand = [
   {
